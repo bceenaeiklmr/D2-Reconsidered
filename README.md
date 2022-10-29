@@ -4,7 +4,7 @@
 
 ![D2R_Youtube_intro](https://user-images.githubusercontent.com/105103590/198849918-91a6d0a3-5b1b-41f7-aee6-fa9a69e90aa9.png)
 
-D2 Reconsidered is an AutoHotkey script to reduce unnecesarry mouse click and other repetative actions.
+D2 Reconsidered is an AutoHotkey script to reduce unnecessary mouse clicks and other repetitive actions. The script is able to function as a RunCounter.
 
 - 22.10.2022 - update to v.0.0.3.
 
