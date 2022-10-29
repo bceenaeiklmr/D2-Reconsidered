@@ -128,7 +128,7 @@ class D2R {
         NumPut(32, bi, 14, "UShort"),
         ; Create device independent section
         hbm := DllCall("CreateDIBSection"
-                        , "Uint", chdc
+                	, "Uint", chdc
                         , "Uint", &bi
                         , "uint", 0
                         , "uint*", 0 ;(ppvBits:=0)
@@ -139,16 +139,16 @@ class D2R {
         ; Get handle for device context
         hhdc := DllCall("GetDC", "UInt", 0),
         ; Perform BitBlt
-	    DllCall("gdi32\BitBlt"
-				, "UInt", chdc
-				, "int", 0
-				, "int", 0
-				, "int", w
-				, "int", h
-				, "UInt", hhdc
-				, "int", 0
-				, "int", 0
-				, "uint", 0x00CC0020),
+	DllCall("gdi32\BitBlt"
+		 , "UInt", chdc
+		 , "int", 0
+		 , "int", 0
+		 , "int", w
+		 , "int", h
+		 , "UInt", hhdc
+		 , "int", 0
+		 , "int", 0
+		 , "uint", 0x00CC0020),
         ; Release device context
         DllCall("ReleaseDC", "UInt", 0, "UInt", hhdc),
         ;VarSetCapacity(pBitmap, 14745600), ; 2560*1440*4 bytes 32 bit bitmap -> does not make any diff besides +20 MB RAM
@@ -167,6 +167,7 @@ class D2R {
         ; Checking the color of the pixel at x1280 y1338 the main state of the game can be decided
         switch PixelSearch(1280, 1338, 0) {
             Case "0x2a2a26":
+	    	; I had severe issues with the timer and references I guess, I have not found a better way to handle the states
                 this.State.Ingame := 1, this.State.IngameOptions := 0, this.State.MainMenu := 0, this.State.MainMenuCreateButton := 0, this.State.Loading := 0, this.State.NoServer := 0, this.State.NoValidState := 0
                 if (this.state.Inventory := this.Inventory.IsOpened()) {
                     this.Inventory.getFreeSpace(),
@@ -181,7 +182,7 @@ class D2R {
                         this.state.stash := 0
                 } else if !this.IsCharacterPanelOpened() && this.Waypoint.isOpened() {
                     this.state.Inventory := 0, this.state.Stash := 0, this.state.SkillTree := 0, this.state.CharacterPanel := 0,
-                    this.state.Waypoint := true,
+                    this.state.Waypoint := 1,
                     this.state.Act := this.Waypoint.Act,
                     this.state.Zone := this.Waypoint.Zone,
                     this.state.Location := this.Waypoint.Name
@@ -412,7 +413,7 @@ class D2R {
             this.Used := Used, this.Free := Free
         }
 
-        ; identifying an item requires an extra moves
+        ; identifying an item requires extra moves
         Identify() {
             this.Stop()
             MouseGetPos, x, y
