@@ -13,8 +13,6 @@ D2 Reconsidered is an AutoHotkey script to reduce unnecessary mouse clicks and o
 - currently optimized for using with AutoHotInterception: https://github.com/evilC/AutoHotInterception (thank you evilC!)
 - Gdip_All.ahk is required
 
-The script will create an ini file, you can move these files to another folder.
-
 ## Features
 
 ![image](https://user-images.githubusercontent.com/105103590/198850180-7a503484-1aad-4c14-998d-52be2f061859.png)
