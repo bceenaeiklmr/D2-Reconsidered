@@ -1,0 +1,256 @@
+1	0.86	                 			Town
+1	59.44	                 			1/4 Lower Kurast|7
+1	13.59	                 			2/4 Dry Hills|5
+1	6.59	                 			3/4 Durance Of Hate Level 2|3
+1	9.27	                 			4/4 Catacombs Level 2|7
+1	89.75	01-10-21 22:11:08	Vikrama	Shako	
+2	6.50	                 			Town
+2	25.58	                 			1/4 Lower Kurast|7
+2	7.56	                 			2/4 Dry Hills|5
+2	6.78	                 			3/4 Durance Of Hate Level 2|3
+2	46.70	                 			4/4 Catacombs Level 2|7
+2	93.13	01-10-21 23:09:24	Vikrama		
+3	11.36	                 			Town
+3	10.41	                 			1/4 Lower Kurast|7
+3	12.52	                 			2/4 Dry Hills|5
+3	7.48	                 			3/4 Durance Of Hate Level 2|3
+3	5.00	                 			4/4 Catacombs Level 2|7
+3	46.77	01-10-21 23:22:35	Vikrama		
+4	7.95	                 			Town
+4	12.84	                 			1/4 Lower Kurast|7
+4	7.81	                 			2/4 Dry Hills|5
+4	7.81	                 			3/4 Durance Of Hate Level 2|3
+4	8.14	                 			4/4 Catacombs Level 2|7
+4	44.56	01-10-21 23:29:55	Vikrama		
+5	15.22	                 			Town
+5	22.16	                 			1/4 Lower Kurast|7
+5	19.86	                 			2/4 Dry Hills|5
+5	15.11	                 			3/4 Durance Of Hate Level 2|3
+5	6.13	                 			4/4 Catacombs Level 2|7
+5	78.47	02-10-21 20:40:35	Vikrama	Tal rune	
+6	4.55	                 			Town
+6	8.05	                 			1/4 Lower Kurast|7
+6	8.23	                 			2/4 Dry Hills|5
+6	6.28	                 			3/4 Durance Of Hate Level 2|3
+6	4.99	                 			4/4 Catacombs Level 2|7
+6	32.09	02-10-21 20:41:23	Vikrama		
+7	3.92	                 			Town
+7	7.36	                 			1/4 Lower Kurast|7
+7	7.05	                 			2/4 Dry Hills|5
+7	6.33	                 			3/4 Durance Of Hate Level 2|3
+7	5.05	                 			4/4 Catacombs Level 2|7
+7	29.70	02-10-21 20:42:08	Vikrama		
+8	4.72	                 			Town
+8	205.98	                 			1/3 Catacombs Level 2|1
+8	369.50	                 			2/3 Lost City|1
+8	29.53	                 			3/3 Harrogath|1
+8	609.73	03-10-21 21:48:57	Vikrama		
+9	5.14	                 			Town
+9	249.11	                 			1/3 Catacombs Level 2|1
+9	230.17	                 			2/3 Lost City|1
+9	113.55	                 			3/3 Harrogath|1
+9	597.97	03-10-21 21:59:14	Vikrama	Tal belt	
+10	5.80	                 			Town
+10	194.72	                 			1/3 Catacombs Level 2|1
+10	479.30	                 			2/3 Lost City|1
+10	28.02	                 			3/3 Harrogath|1
+10	707.83	03-10-21 22:11:19	Vikrama		
+11	5.49	                 			Town
+11	222.81	                 			1/3 Catacombs Level 2|1
+11	448.14	                 			2/3 Lost City|1
+11	24.84	                 			3/3 Harrogath|1
+11	701.28	03-10-21 22:23:17	Vikrama		
+12	16.39	                 			Town
+12	261.16	                 			1/2 Catacombs Level 2|3
+12	23.70	                 			2/2 Harrogath
+11	701.28	28-10-22 18:23:17	bceeN		
+12	16.39	                 			Town
+12	261.16	                 			1/2 Catacombs Level 2|3
+12	23.70	                 			2/2 Harrogath
+13	6.86	                 			Town
+13	10.44	                 			1/2 Cold Plains
+13	17.30	28-10-22 22:31:12	bceeN		
+14	6.41	                 			Town
+14	6.69	                 			1/2 Cold Plains
+14	5.92	                 			2/2 Rouge Encampment
+14	19.02	28-10-22 22:33:08	bceeN		
+15	2.61	                 			Town
+15	6.31	                 			1/2 Cold Plains
+15	5.75	                 			2/2 Rouge Encampment
+15	14.67	28-10-22 22:34:41	bceeN		
+16	12.14	                 			Town
+16	7.66	                 			1/2 Cold Plains
+16	6.75	                 			2/2 Rouge Encampment
+16	26.55	28-10-22 22:45:25	bceeN		
+17	11.28	                 			Town
+17	10.22	                 			1/5 Catacombs Level 2
+17	93.83	                 			2/5 Travincial
+17	154.78	                 			3/5 Durance Of Hate Level 2
+17	8.38	                 			4/5 Frigid Highlands
+17	8.03	                 			5/5 Harrogath
+17	286.52	28-10-22 22:54:04	bceeN	Rare Amulet, SC
+18	2.72	                 			Town
+18	7.77	                 			1/5 Catacombs Level 2
+18	35.88	                 			2/5 Travincial
+18	4.36	                 			3/5 Durance Of Hate Level 2
+18	22.69	                 			4/5 Frigid Highlands
+18	14.20	                 			5/5 Harrogath
+18	87.61	28-10-22 23:20:47	bceeN	
+19	10.69	                 			Town
+19	146.08	                 			1/5 Catacombs Level 2
+19	191.41	                 			2/5 Travincial
+19	5.23	                 			3/5 Durance Of Hate Level 2
+19	13.02	                 			4/5 Frigid Highlands
+19	19.34	                 			5/5 Harrogath
+19	385.76	28-10-22 23:29:43	bceeN	
+20	10.50	                 			Town
+20	274.42	                 			1/5 Catacombs Level 2
+20	46.63	                 			2/5 Travincial
+20	177.73	                 			3/5 Durance Of Hate Level 2
+20	181.39	                 			4/5 Frigid Highlands
+20	32.44	                 			5/5 Harrogath
+20	723.11	28-10-22 23:41:57	bceeN	
+21	10.30	                 			Town
+21	5.41	                 			1/4 Rouge Encampment
+21	4.48	                 			2/4 Lut Gholein
+21	7.20	                 			3/4 Kurast Docks
+21	2.39	                 			4/4 Cold Plains
+22	1.19	                 			Town
+22	177.81	                 			1/5 Catacombs Level 2
+22	48.59	                 			2/5 Travincial
+22	321.09	                 			3/5 River Of Flame
+22	65.25	                 			4/5 Frigid Highlands
+22	29.89	                 			5/5 Harrogath
+22	643.83	29-10-22 11:29:53	bceeN	
+23	1.23	                 			Town
+23	119.47	                 			1/5 Catacombs Level 2
+23	205.56	                 			2/5 Travincial
+23	360.51	                 			3/5 River Of Flame
+23	44.78	                 			4/5 Frigid Highlands
+23	50.06	                 			5/5 Harrogath
+23	781.63	29-10-22 11:43:14	bceeN	Shako
+24	1.33	                 			Town
+24	110.92	                 			1/5 Catacombs Level 2
+24	146.38	                 			2/5 Travincial
+24	3.13	                 			3/5 River Of Flame
+24	18.13	                 			4/5 Frigid Highlands
+24	82.77	                 			5/5 Harrogath
+24	362.64	29-10-22 11:49:41	bceeN	
+25	0.77	                 			Town
+25	4.03	                 			1/5 Catacombs Level 2
+25	4.72	                 			2/5 Travincial
+25	3.55	                 			3/5 River Of Flame
+25	4.92	                 			4/5 Frigid Highlands
+25	4.00	                 			5/5 Harrogath
+25	21.98	29-10-22 12:26:00	bceeN	
+26	1.13	                 			Town
+26	199.27	                 			1/3 Catacombs Level 2
+26	312.59	                 			2/3 River Of Flame
+26	41.84	                 			3/3 Frigid Highlands
+26	554.83	29-10-22 13:15:45	bceeN	
+27	4.13	                 			Town
+27	104.31	                 			1/3 Catacombs Level 2
+27	454.80	                 			2/3 River Of Flame
+27	89.31	                 			3/3 Frigid Highlands
+27	652.55	29-10-22 13:26:58	bceeN	
+28	3.47	                 			Town
+28	124.50	                 			1/3 Catacombs Level 2
+28	247.22	                 			2/3 River Of Flame
+28	65.42	                 			3/3 Frigid Highlands
+28	440.61	29-10-22 13:34:41	bceeN	
+29	15.48	                 			Town
+29	164.50	                 			1/3 Catacombs Level 2
+29	242.95	                 			2/3 River Of Flame
+29	46.22	                 			3/3 Frigid Highlands
+29	469.16	29-10-22 13:42:50	bceeN	
+30	1.14	                 			Town
+30	20.59	                 			1/3 Catacombs Level 2
+30	4.92	                 			2/3 River Of Flame
+30	4.01	                 			3/3 Frigid Highlands
+30	30.67	29-10-22 14:02:04	bceeN	
+31	1.25	                 			Town
+31	4.52	                 			1/3 Catacombs Level 2
+31	21.53	                 			2/3 River Of Flame
+31	70.36	                 			3/3 Frigid Highlands
+31	97.66	29-10-22 14:08:26	bceeN	
+32	4.49	                 			Town
+32	3.72	                 			1/3 Catacombs Level 2
+32	5.19	                 			2/3 River Of Flame
+32	4.08	                 			3/3 Frigid Highlands
+32	17.47	29-10-22 14:09:02	bceeN	
+33	1.28	                 			Town
+33	5.08	                 			1/3 Catacombs Level 2
+33	4.45	                 			2/3 River Of Flame
+33	25.89	                 			3/3 Frigid Highlands
+33	36.70	29-10-22 14:11:21	bceeN	
+34	10.97	                 			Town
+34	120.42	                 			1/3 Catacombs Level 2
+34	322.33	                 			2/3 River Of Flame
+34	44.55	                 			3/3 Frigid Highlands
+34	498.27	29-10-22 15:13:47	bceeN	
+35	1.17	                 			Town
+35	110.73	                 			1/3 Catacombs Level 2
+35	297.48	                 			2/3 River Of Flame
+35	49.58	                 			3/3 Frigid Highlands
+35	458.97	29-10-22 15:21:43	bceeN	
+36	1.17	                 			Town
+36	583.30	                 			1/3 Catacombs Level 2
+36	2.83	                 			2/3 River Of Flame
+36	29.97	                 			3/3 Frigid Highlands
+36	617.26	29-10-22 15:32:15	bceeN	
+37	1.16	                 			Town
+37	193.78	                 			1/3 Catacombs Level 2
+37	3.16	                 			2/3 River Of Flame
+37	53.42	                 			3/3 Frigid Highlands
+37	251.52	29-10-22 15:36:42	bceeN	
+38	10.69	                 			Town
+38	123.09	                 			1/3 Catacombs Level 2
+38	424.00	                 			2/3 River Of Flame
+38	28.61	                 			3/3 Frigid Highlands
+38	586.39	29-10-22 15:46:32	bceeN	Chance guards 36
+39	13.61	                 			Town
+39	198.25	                 			1/3 Catacombs Level 2
+39	158.20	                 			2/3 River Of Flame
+39	836.64	                 			3/3 Frigid Highlands
+39	1206.70	29-10-22 16:06:43	bceeN	eth shaftstop 187
+40	0.95	                 			Town
+40	342.94	                 			1/6 Lost City
+40	435.84	                 			2/6 Catacombs Level 2
+40	72.83	                 			3/6 Travincial
+40	40.58	                 			4/6 Frigid Highlands
+40	18.83	                 			5/6 Harrogath
+40	378.83	                 			6/6 River of Flame
+40	1290.80	29-10-22 17:26:06	bceeN	Sandstorm trek 148 13 11	
+41	3.92	                 			Town
+41	158.88	                 			1/6 Lost City
+41	196.59	                 			2/6 Catacombs Level 2
+41	631.00	                 			3/6 Travincial
+41	33.00	                 			4/6 Frigid Highlands
+41	25.06	                 			5/6 Harrogath
+41	403.42	                 			6/6 River of Flame
+41	1451.88	29-10-22 17:59:26	bceeN		
+42	11.86	                 			Town
+42	77.23	                 			1/3 Travincial
+42	113.98	                 			2/3 Durance Of Hate Level 2
+42	366.17	                 			3/3 River of Flame
+42	569.25	29-10-22 18:34:15	bceeN		
+43	1.09	                 			Town
+43	43.45	                 			1/3 Travincial
+43	142.41	                 			2/3 Durance Of Hate Level 2
+43	274.74	                 			3/3 River of Flame
+43	461.69	29-10-22 18:49:03	bceeN	Highlord's Wrath	
+44	1.14	                 			Town
+44	100.11	                 			1/3 Travincial
+44	126.72	                 			2/3 Durance Of Hate Level 2
+44	159.99	                 			3/3 River of Flame
+44	387.95	29-10-22 18:55:41	bceeN		0
+45	1.16	                 			Town
+45	100.99	                 			1/3 Travincial
+45	148.25	                 			2/3 Durance Of Hate Level 2
+45	292.23	                 			3/3 River of Flame
+45	542.63	29-10-22 19:04:54	bceeN		0
+46	1.08	                 			Town
+46	47.41	                 			1/3 Travincial
+46	124.89	                 			2/3 Durance Of Hate Level 2
+46	223.41	                 			3/3 River of Flame
+46	396.78	29-10-22 19:11:41	bceeN		0
