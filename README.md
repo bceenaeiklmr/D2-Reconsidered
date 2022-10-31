@@ -20,15 +20,15 @@ The script is able to function as a RunCounter.
 
 *It was fun, but that's when I got the idea to mess with D2 and AutoHotkey.*
 
-If you're doing an offline challenge, it's up to you to make your own rules.
+*If you're doing an offline challenge, it's up to you to make your own rules.*
 
-Personally, I'd rather run multiple MFs at the same time than move the mouse over the same routes over and over again.
+*Personally, I'd rather run multiple MFs at the same time than move the mouse over the same routes over and over again.*
 
-Sometimes I'm also very disorganized, the available data helps me concentrate and do quicker runs.
+*Sometimes I'm also very disorganized, the available data helps me concentrate and do quicker runs.*
 
-Seeing progress towards your goals is always helpful for gaining morale. :)
+*Seeing progress towards your goals is always helpful for gaining morale.* :)
 
-
+- 31.10.2022 - v0.1.2
 - 29.10.2022 - first release, v.0.1.0
 
 ## Download
