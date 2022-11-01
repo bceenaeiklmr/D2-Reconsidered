@@ -41,10 +41,10 @@ The script is able to function as a RunCounter.
 
 ![image](https://user-images.githubusercontent.com/105103590/198850180-7a503484-1aad-4c14-998d-52be2f061859.png)
 
-- Capable of automating actions, e.g. automatically select waypoints by Name
+- Capable of automating actions, e.g. automatically selecting waypoints by Name
 - Detect free slots in Stash, Inventory, active StashTab
 - Capable of moving items from the inventory to Stash
-- Able to create games in the end of the MF runs automatically
+- Able to create games at the end of the MF runs automatically
 - RunCounter function, logs each zones during the runs and stores it in a simple txt file
 - GDI+ overlay GUI to display stats on the top of the screen ( total played run, total played today, total in hrs, last found item etc... )
 - Does not read/write memory
